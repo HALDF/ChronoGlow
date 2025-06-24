@@ -2,7 +2,7 @@
 
 *A mesmerizing time display for Android*  
 
-![ChronoGlow Screenshot](https://winnersofgames.ru/test.png)
+![ChronoGlow Screenshot](https://github.com/HALDF/ChronoGlow/blob/main/screenshots/Screenshot_20250624-151234.jpg)
 
 ## 🌟 Features  
 
